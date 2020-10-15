@@ -1,4 +1,6 @@
 A. Grammatical Analysis - Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
+
+
 *Chaos* prīmus **deōrum** erat. 
 Fīliae eius, *Nox et Terra*, māter omnium hominum, **erant**. 
 *Haec* māter Mortis et Lētī **erat**. 
@@ -6,6 +8,8 @@ Illīus *fīliī* horribilia mōnstra *erant**: Typhon, Python, et Cyclōpēs.
 *Typhon et Python* dracōnēs ingentēs **erant** et *Cyclōpēs* fabrī brūtī. 
 Sed frāter **eōrum** *Ūranus*, prīmus ipse rēx deōrum. 
 *Hic* fortis et magnus *erat**, sed sapiēns.
+
+
 B. Grammatical Questions
 	1. What case is eius and to what does it refer?
     1.Accusative, Filiae
@@ -23,6 +27,8 @@ B. Grammatical Questions
     1.	3
   8.	What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum?
     1.	He was
+    
+    
 C. Translation - Please translate the passage into idiomatic English.
 1. 	Chaos was the first of the gods.
 2.	His daughters, Nox and Terra, were the mother of all humankind. 
