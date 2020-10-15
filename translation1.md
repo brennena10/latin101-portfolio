@@ -27,7 +27,7 @@ C. Translation - Please translate the passage into idiomatic English.
 1. 	Chaos was the first of the gods.
 2.	His daughters, Nox and Terra, were the mother of all humankind. 
 3.	These were the mother of Mortis and Leti.
-4.	His children were horrible monsters: Typhon, Python, and the Cyclopes.
+4.	His sons were horrible monsters: Typhon, Python, and the Cyclopes.
 5.	Typhon and Python were huge serpents and Cyclopes was a foolish mason.
 6.	But their brother was Uranus, he was the first king of the gods.
 7.	He was big and strong, but also wise. 
