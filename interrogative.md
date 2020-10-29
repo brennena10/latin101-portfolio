@@ -1,3 +1,5 @@
+**Satisfactory: full credit**
+
 1. Prometheus homines ex quo fingebat?
 2. Vulcanus ex luto quid fecit?
 3. Minerva cui animam dedit?
