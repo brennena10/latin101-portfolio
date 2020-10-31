@@ -1,39 +1,41 @@
-A. Grammatical Analysis - Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
+**Needs corrections**
+
+A. Grammatical Analysis - Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)  **Part A: all correct**
 
 
-*Chaos* prīmus **deōrum** erat. 
-Fīliae eius, *Nox et Terra*, māter omnium hominum, **erant**. 
-*Haec* māter Mortis et Lētī **erat**. 
-Illīus *fīliī* horribilia mōnstra *erant**: Typhon, Python, et Cyclōpēs. 
-*Typhon et Python* dracōnēs ingentēs **erant** et *Cyclōpēs* fabrī brūtī. 
-Sed frāter **eōrum** *Ūranus*, prīmus ipse rēx deōrum. 
+*Chaos* prīmus **deōrum** erat.
+Fīliae eius, *Nox et Terra*, māter omnium hominum, **erant**.
+*Haec* māter Mortis et Lētī **erat**.
+Illīus *fīliī* horribilia mōnstra *erant**: Typhon, Python, et Cyclōpēs.
+*Typhon et Python* dracōnēs ingentēs **erant** et *Cyclōpēs* fabrī brūtī.
+Sed frāter **eōrum** *Ūranus*, prīmus ipse rēx deōrum.
 *Hic* fortis et magnus *erat**, sed sapiēns.
 
 
 B. Grammatical Questions
 	1. What case is eius and to what does it refer?
-    1.Accusative, Filiae
+    1.Accusative, Filiae **Check the forms of *is, ea, id*.**
   2.	What type of word is haec?
     1.	Pronoun
   3.	To whom does illius refer?
-    1.	Mortis
+    1.	Mortis **The pronouns should refer to the closest, or most recent, noun/name it agrees with in number and gender.  Since *illius* could be masc,fem,or neut, what is the closest singular noun or name in the previous sentence?**
   4.	What case, number, and gender is monstra?
-    1.	Accusative, Plural, neuter
+    1.	Accusative, Plural, neuter **How does *monstra* function in this sentence?  That will guide you to choose what case it is when you have a form like this that could be more than one possible case based on form alone.**
   5.	What declension does the word dracōnēs belong to?
     1.	3
   6.	What case and number is eorum and to whom does it refer?
-    1.	Accusaitve plural, Typhon, Python, and Cyclopes
+    1.	Accusative plural, Typhon, Python, and Cyclopes **Check the forms of *is, ea, id*.**
   7.	What declension does the word dracōnēs belong to?
     1.	3
   8.	What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum?
     1.	He was
-    
-    
+
+
 C. Translation - Please translate the passage into idiomatic English.
 1. 	Chaos was the first of the gods.
-2.	His daughters, Nox and Terra, were the mother of all humankind. 
+2.	His daughters, Nox and Terra, were the mother of all humankind.
 3.	These were the mother of Mortis and Leti.
 4.	His sons were horrible monsters: Typhon, Python, and the Cyclopes.
 5.	Typhon and Python were huge serpents and Cyclopes was a foolish mason.
 6.	But their brother was Uranus, he was the first king of the gods.
-7.	He was big and strong, but also wise. 
+7.	He was big and strong, but also wise.
