@@ -1,3 +1,5 @@
+**Needs revision**
+
 1a. necet
 1b. necaret
 2a. habeat
@@ -11,4 +13,4 @@
 6a. interficiat
 6b. interficeret
 7a. purget
-7b. ?
+7b. ? **Guess we need a visit to drop-in hours!**
