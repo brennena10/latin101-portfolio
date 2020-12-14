@@ -1,7 +1,7 @@
 **Needs revision**
 
 *Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor.
-illō tempōre, Eumolpus, Neptūnī fīlius, vēnit ad Athēnās oppugnandās, sed hic victus est.  **Please mark subject and verb of these sentences.**
+illō tempōre, *Eumolpus*, Neptūnī fīlius, vēnit ad Athēnās oppugnandās, sed hic **victus est**.  
 
 *Neptūnus*, infestus quod fīlius ab Erechtheō interfectus est, **dīxit** “Erecthei fīlia immolanda est.”
 itaque Chthonia, fīliārum ūna, immolāta est.  **Please mark subject and verb of this sentence.**
@@ -21,7 +21,7 @@ Parse (PNTMV) interfectus est. - **??**
 
 What kind of construction is immolanda est? - dependent clause. **This is actually the main clause of the sentence that Erechteus spoke.**
 
-Parse (GCN) ceterae sorōrēs. - **??**
+Parse (GCN) ceterae sorōrēs. - feminine, genitive, plural
 
 What type of construction is ab fulmine? - prepositional phrase
 
